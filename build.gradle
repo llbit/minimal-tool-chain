@@ -6,5 +6,5 @@ dependencies {
 	testCompile 'junit:junit:4.12'
 }
 
-defaultTasks 'test'
+// defaultTasks 'test'
 test.dependsOn 'cleanTest'
