@@ -14,7 +14,7 @@ public class TestVehicleQueue {
 		assertEquals(0, queue.size());
 	}
 
-	Example of failing test
+	//Example of failing test
 	@Test
 	public void failingTest() {
 	  assertEquals(0,1);
