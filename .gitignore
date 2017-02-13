@@ -10,3 +10,7 @@
 *.log
 *.aux
 *.bbl
+
+# Gradle files
+/.gradle/
+/build/
